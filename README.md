@@ -109,9 +109,9 @@ Estudiante de tercer año de **Ingeniería del Software** en **U-TAD** (Madrid),
 Desarrollo proyectos propios que van desde aplicaciones web full-stack hasta herramientas orientadas a seguridad, y dedico gran parte de mi tiempo libre a perfeccionar mis habilidades de seguridad ofensiva mediante laboratorios y CTFs.
 
 ```
-🎯 Enfoque actual    →  Red Teaming · Forense Digital · Análisis de Malware
-🏋️ Entrenamiento     →  HTB Academy · HackTheBox Labs · Prácticas de clase
-📜 Próxima cert       →  CPTS (Certified Penetration Testing Specialist)
+Enfoque actual    →  Red Teaming · Forense Digital · Análisis de Malware
+Entrenamiento     →  HTB Academy · HackTheBox Labs · Prácticas de clase
+Próxima cert       →  CPTS (Certified Penetration Testing Specialist)
 ```
 
 </details>
