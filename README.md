@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=170&section=header&text=Alejandro%20%2F%20D1n0&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Offensive%20Security%20%C2%B7%20Digital%20Forensics%20%C2%B7%20Software%20Engineering&descSize=16&descAlignY=60" alt="Alejandro / D1n0 · Offensive Security · Digital Forensics · Software Engineering"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:3a0000,50:9b111e,100:ff1744&height=170&section=header&text=Alejandro%20%2F%20D1n0&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Offensive%20Security%20%C2%B7%20Digital%20Forensics%20%C2%B7%20Software%20Engineering&descSize=16&descAlignY=60" alt="Alejandro / D1n0 · Offensive Security · Digital Forensics · Software Engineering"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1FA89B&center=true&vCenter=true&width=620&height=40&lines=Aspiring+Red+Teamer;Active+Directory+%26+web+attacks;Digital+forensics+background;Working+towards+OSCP+%E2%80%94+summer+2027" alt="Aspiring Red Teamer · Active Directory & web attacks · Digital forensics background · Working towards OSCP"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00FF41&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Red+Team+intern;%24+focus+%E2%86%92+Offensive+Engineering+%26+Development;%24+hobby-projects+%E2%86%92+robotics%2C+malware%2C+general+dev;%24+.%2Foscp+--target+summer-2027" alt="Red Team intern · Offensive Engineering & Development · Hobby projects: robotics, malware, general dev · Target: OSCP, summer 2027"/>
 
 <br/>
 
@@ -14,9 +14,10 @@
 <br/>
 
 Fourth-year **Software Engineering** student at **U-TAD** (Madrid) with a specialization in **Cybersecurity**.
-I build software ranging from full-stack web apps to security tooling, and I'm working towards a career in **Red Team**. Most of my free time goes into labs, Hack The Box and learning how things break (and how to spot it afterwards, thanks to a forensics background).
+I currently work as a **Red Team intern**, and I build software ranging from full-stack web apps to security tooling. Most of my free time goes into labs, Hack The Box and learning how things break (and how to spot it afterwards, thanks to a forensics background).
 
 ```
+Right now       →  Red Team intern
 Current focus   →  Red Teaming · Active Directory · Digital Forensics
 Training        →  HTB Academy · HTB Labs & Sherlocks · home lab (AD)
 Next certs      →  OSCP (target: summer 2027) · CRTP
@@ -153,9 +154,21 @@ Client-side web, distributed systems and databases live in my other repositories
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/D1n0sXIX/D1n0sXIX/output/github-snake.svg"/>
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1n0sXIX/D1n0sXIX/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D1n0sXIX/D1n0sXIX/output/pacman-contribution-graph.svg"/>
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/D1n0sXIX/D1n0sXIX/output/pacman-contribution-graph.svg"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1n0sXIX/D1n0sXIX/output/breakout-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D1n0sXIX/D1n0sXIX/output/breakout-contribution-graph.svg"/>
+  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/D1n0sXIX/D1n0sXIX/output/breakout-contribution-graph.svg"/>
+</picture>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:3a0000,50:9b111e,100:ff1744&height=110&section=footer" width="100%" alt=""/>
 
 <details>
 <summary>🇪🇸 Versión en Español</summary>
@@ -163,9 +176,10 @@ Client-side web, distributed systems and databases live in my other repositories
 <br/>
 
 Estudiante de cuarto año de **Ingeniería del Software** en **U-TAD** (Madrid), con especialización en **Ciberseguridad**.
-Desarrollo desde aplicaciones web full-stack hasta herramientas de seguridad, y busco desarrollar mi carrera en **Red Team**. Dedico gran parte de mi tiempo libre a laboratorios, Hack The Box y a entender cómo se rompen las cosas (y cómo detectarlo después, gracias a mi base de forense).
+Actualmente trabajo como **becario de Red Team** y desarrollo desde aplicaciones web full-stack hasta herramientas de seguridad. Dedico gran parte de mi tiempo libre a laboratorios, Hack The Box y a entender cómo se rompen las cosas (y cómo detectarlo después, gracias a mi base de forense).
 
 ```
+Ahora mismo       →  Becario de Red Team
 Enfoque actual    →  Red Teaming · Active Directory · Forense Digital
 Entrenamiento     →  HTB Academy · HTB Labs y Sherlocks · laboratorio propio (AD)
 Próximas certs    →  OSCP (objetivo: verano de 2027) · CRTP
