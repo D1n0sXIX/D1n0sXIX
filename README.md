@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0b2a1a,100:0f5132&height=150&section=header&text=Alejandro%20%2F%20D1n0&fontSize=44&fontColor=00FF41&fontAlignY=40&desc=Offensive%20Security%20%C2%B7%20Digital%20Forensics%20%C2%B7%20Software%20Engineering&descSize=16&descColor=c9d1d9&descAlignY=66" alt="Alejandro / D1n0 · Offensive Security · Digital Forensics · Software Engineering"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0b2a1a,100:0f5132&height=150&section=header&text=D1n0&fontSize=48&fontColor=00FF41&fontAlignY=40&desc=Offensive%20Security%20%C2%B7%20Digital%20Forensics%20%C2%B7%20Software%20Engineering&descSize=16&descColor=c9d1d9&descAlignY=66" alt="D1n0 · Offensive Security · Digital Forensics · Software Engineering"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00FF41&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Red+Team+intern;%24+focus+%E2%86%92+Offensive+Engineering+%26+Development;%24+hobby-projects+%E2%86%92+robotics%2C+malware%2C+general+dev;%24+.%2Foscp+--target+summer-2027"/>
@@ -26,9 +26,7 @@ Training        →  HTB Academy · HTB Labs & Sherlocks · home lab (AD)
 Next certs      →  OSCP (target: summer 2027) · CRTP
 ```
 
----
-
-## 🛡️ Cybersecurity
+<h3 align="center">-------------------- Cybersecurity --------------------</h3>
 
 <table>
 <tr>
@@ -69,9 +67,7 @@ Supervised + semi-supervised ML to detect security events in network/system data
 </tr>
 </table>
 
----
-
-## 🚀 Projects
+<h3 align="center">-------------------- Random Projects --------------------</h3>
 
 <table>
 <tr>
@@ -112,42 +108,45 @@ Client-side web, distributed systems and databases live in my other repositories
 </tr>
 </table>
 
----
-
-## 🎓 Certifications Roadmap
+<h3 align="center">-------------------- Certifications Roadmap --------------------</h3>
 
 | Status | Certification | Focus |
 |:---:|---|---|
 | 🎯 | **OSCP** – OffSec Certified Professional | Hands-on penetration testing — exam planned for summer 2027 |
 | 🎯 | **CRTP** – Certified Red Team Professional | Active Directory attacks |
 
----
-
-## 💻 Tech Stack
+<h3 align="center">-------------------- Tech Stack --------------------</h3>
 
 <div align="center">
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,bash,powershell&perline=8" alt="Python, JavaScript, TypeScript, C, C++, Java, Bash, PowerShell"/>
-
-**Web**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,jest&perline=6" alt="React, Next.js, Tailwind CSS, Node.js, Express, Jest"/>
-
-**Data, AI & Hardware**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,tensorflow,opencv,arduino&perline=5" alt="MySQL, MongoDB, TensorFlow, OpenCV, Arduino"/>
-
-**Infrastructure & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=linux,arch,docker,kubernetes,aws,vercel,git&perline=7" alt="Linux, Arch Linux, Docker, Kubernetes, AWS, Vercel, Git"/>
-
-**Security tooling**<br/>
-<img src="https://skillicons.dev/icons?i=kali&perline=1" alt="Kali Linux"/><br/>
+**Offensive Security & Forensics**<br/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/SQLMap-555555?style=flat-square" alt="SQLMap"/>
+<img src="https://img.shields.io/badge/Responder-8B0000?style=flat-square" alt="Responder"/>
+<img src="https://img.shields.io/badge/Mimikatz-B22222?style=flat-square" alt="Mimikatz"/>
+<img src="https://img.shields.io/badge/Volatility-2E8B57?style=flat-square" alt="Volatility"/>
+<img src="https://img.shields.io/badge/Sysinternals-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Sysinternals"/>
+
+**Languages for tooling**<br/>
+<img src="https://skillicons.dev/icons?i=py,powershell,bash,c,cpp&perline=5" alt="Python, PowerShell, Bash, C, C++"/>
+
+**Systems & Infrastructure**<br/>
+<img src="https://skillicons.dev/icons?i=windows,linux,arch,docker,kubernetes,aws,git&perline=7" alt="Windows, Linux, Arch Linux, Docker, Kubernetes, AWS, Git"/><br/>
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Active Directory"/>
+
+**Software Development**<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,tailwind,nodejs,express,jest,mysql,mongodb,vercel&perline=12" alt="JavaScript, TypeScript, Java, React, Next.js, Tailwind CSS, Node.js, Express, Jest, MySQL, MongoDB, Vercel"/>
+
+**AI & Hardware**<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,arduino&perline=3" alt="TensorFlow, OpenCV, Arduino"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -158,8 +157,6 @@ Client-side web, distributed systems and databases live in my other repositories
 </picture>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f5132,50:0b2a1a,100:0d1117&height=60&section=footer" width="100%" alt=""/>
 
 <details>
 <summary>🇪🇸 Versión en Español</summary>
