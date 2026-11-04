@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:3a0000,50:9b111e,100:ff1744&height=170&section=header&text=Alejandro%20%2F%20D1n0&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Offensive%20Security%20%C2%B7%20Digital%20Forensics%20%C2%B7%20Software%20Engineering&descSize=16&descAlignY=60" alt="Alejandro / D1n0 · Offensive Security · Digital Forensics · Software Engineering"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0b2a1a,100:0f5132&height=150&section=header&text=Alejandro%20%2F%20D1n0&fontSize=44&fontColor=00FF41&fontAlignY=40&desc=Offensive%20Security%20%C2%B7%20Digital%20Forensics%20%C2%B7%20Software%20Engineering&descSize=16&descColor=c9d1d9&descAlignY=66" alt="Alejandro / D1n0 · Offensive Security · Digital Forensics · Software Engineering"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00FF41&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Red+Team+intern;%24+focus+%E2%86%92+Offensive+Engineering+%26+Development;%24+hobby-projects+%E2%86%92+robotics%2C+malware%2C+general+dev;%24+.%2Foscp+--target+summer-2027" alt="Red Team intern · Offensive Engineering & Development · Hobby projects: robotics, malware, general dev · Target: OSCP, summer 2027"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00FF41&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Red+Team+intern;%24+focus+%E2%86%92+Offensive+Engineering+%26+Development;%24+hobby-projects+%E2%86%92+robotics%2C+malware%2C+general+dev;%24+.%2Foscp+--target+summer-2027"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=008F11&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Red+Team+intern;%24+focus+%E2%86%92+Offensive+Engineering+%26+Development;%24+hobby-projects+%E2%86%92+robotics%2C+malware%2C+general+dev;%24+.%2Foscp+--target+summer-2027" alt="Red Team intern · Offensive Engineering & Development · Hobby projects: robotics, malware, general dev · Target: OSCP, summer 2027"/>
+</picture>
 
 <br/>
 
@@ -149,18 +152,6 @@ Client-side web, distributed systems and databases live in my other repositories
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1n0sXIX/D1n0sXIX/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D1n0sXIX/D1n0sXIX/output/github-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/D1n0sXIX/D1n0sXIX/output/github-snake.svg"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1n0sXIX/D1n0sXIX/output/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D1n0sXIX/D1n0sXIX/output/pacman-contribution-graph.svg"/>
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/D1n0sXIX/D1n0sXIX/output/pacman-contribution-graph.svg"/>
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1n0sXIX/D1n0sXIX/output/breakout-contribution-graph-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D1n0sXIX/D1n0sXIX/output/breakout-contribution-graph.svg"/>
   <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/D1n0sXIX/D1n0sXIX/output/breakout-contribution-graph.svg"/>
@@ -168,7 +159,7 @@ Client-side web, distributed systems and databases live in my other repositories
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:3a0000,50:9b111e,100:ff1744&height=110&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f5132,50:0b2a1a,100:0d1117&height=60&section=footer" width="100%" alt=""/>
 
 <details>
 <summary>🇪🇸 Versión en Español</summary>

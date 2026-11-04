@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate breakout contribution graph
 
 on:
   # cada día a las 00:00 UTC, al subir cambios a main y a mano desde la pestaña Actions
@@ -17,20 +17,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generar la serpiente (claro y oscuro)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
       # Fijado al commit de main (294c47e) en vez de @main, para que no cambie sin avisar
-      - name: Generar Pac-Man y breakout (claro y oscuro)
+      - name: Generar breakout (claro y oscuro)
         uses: abozanona/pacman-contribution-graph@294c47eff28a41339a279107ae771b5fa020037a
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: "pacman,breakout"
+          games: "breakout"
 
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v5
